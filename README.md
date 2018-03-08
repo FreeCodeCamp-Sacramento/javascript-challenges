@@ -13,13 +13,16 @@ Below you find various algorhythms ranging from easy to hard with the answers pr
 
 ---
 
-1. Given an array of numbers, find the largest value and console.log it using either a for-loop or a while-loop. Date (03/07/2018)
+**Given an array of numbers, find the largest value and console.log it using either a for-loop or a while-loop. (Date: 03/07/2018)**
+
 
 [Challenge](https://repl.it/@lebilly/find-the-largest-value-in-the-given-array)
 
 [Answer](https://jsfiddle.net/ccfcheng/a1co7gcg/16/)
 
-2. Given an array of values, write a function that returns a reversed version of the array. It's a very simple problem, so I'm including 3 different levels of difficulty:
+---
+
+**Given an array of values, write a function that returns a reversed version of the array. (Date: 03/08/2018)**
 
 Easy: Use a loop, and do not mutate the original array.
 
