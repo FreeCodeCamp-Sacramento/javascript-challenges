@@ -1,8 +1,8 @@
-# freeCodeCamp JavaScript Algorhytm challenges
+# freeCodeCamp JavaScript Algorithm challenges
 
 This is a repository for our weekly challenges found in our FB group: [freeCodeCamp Greater Sacramento Area](https://www.facebook.com/groups/free.code.camp.sacramento/)
 
-Below you find various algorhythms ranging from easy to hard with the answers provided. But first, let's cover the rules!
+Below you find various algorithms ranging from easy to hard with the answers provided. But first, let's cover the rules!
 
 1. Follow the instructions carefully!
 2. No sharing code until you've completed the challenge.
@@ -31,3 +31,16 @@ Medium: Reverse the array in place. This should mutate the original array, and s
 Hard: Reverse the array in place, but you are not allowed to create any additional variables to store values or use the built in Array.reverse().
 
 [Challenge](https://repl.it/@ccfcheng/String-Reverse)
+
+[Answer](https://repl.it/@ccfcheng/String-Reverse-Solutions)
+
+---
+**Given an input number `n`, write a function `fib(n)` that returns the nth Fibonacci number. (Date: 03/12/2018)**
+
+The Fibonacci sequence is a pattern where the first two numbers in the sequence are 1 and 1, then each successive number in the sequence is the sum of the previous two numbers. Thus, the 3rd number is 1 + 1 = 2, the 4th is 1 + 2 = 3, the 5th is 2 + 3 = 5, the 6th is 3 + 5 = 8, and so on.
+
+So, the sequence looks like this: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ...
+
+Your task is to write a function that takes a number `n` as an input, and returns the nth Fibonacci number. For example, fib(6) should return 8, since 8 is the 6th Fibonacci number.
+
+[Challenge](https://repl.it/@ccfcheng/Fibonacci)
