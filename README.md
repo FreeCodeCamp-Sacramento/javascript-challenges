@@ -44,3 +44,7 @@ So, the sequence looks like this: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ...
 Your task is to write a function that takes a number `n` as an input, and returns the nth Fibonacci number. For example, fib(6) should return 8, since 8 is the 6th Fibonacci number.
 
 [Challenge](https://repl.it/@ccfcheng/Fibonacci)
+
+[Answer](https://repl.it/@ccfcheng/Fibonacci-Solution)
+
+---
