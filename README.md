@@ -48,3 +48,22 @@ Your task is to write a function that takes a number `n` as an input, and return
 [Answer](https://repl.it/@ccfcheng/Fibonacci-Solution)
 
 ---
+**Given an input string of numeric digits, write a function `prettyPrint()` that returns a version formatted like a phone number. (Date: 03/15/2018)**
+
+A common feature of phone number input boxes on web forms is pretty printing - for example, when a user enters "9165551234", what gets displayed is "(916) 555-1234".
+
+Write a function called prettyPrint() that takes a string of digits, and meets the following conditions:
+
+1) If there are exactly 10 digits, return a pretty printed version of the digits, as in "(XXX) XXX-XXXX".
+
+2) Otherwise, return the digits as is.
+
+*Extra Credit*
+
+Enable the function to ignore any non-numeric characters in the input string.
+
+[Challenge](https://repl.it/@ccfcheng/Pretty-Print-Phone-Number)
+
+[Answer](https://repl.it/@ccfcheng/Pretty-Print-Phone-Number-Solution)
+
+---
